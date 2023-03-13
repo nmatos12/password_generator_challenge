@@ -12,7 +12,13 @@ N/A
 
 Images below provide a snapshot of webpage including functionality.
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/password_generator_img1.png)
+![alt text](assets/images/password_generator_img2.png)
+![alt text](assets/images/password_generator_img3.png)
+![alt text](assets/images/password_generator_img4.png)
+![alt text](assets/images/password_generator_img5.png)
+![alt text](assets/images/password_generator_img6.png)
+![alt text](assets/images/password_generator_img7.png)
 
 ## Credits
 
