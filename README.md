@@ -10,6 +10,8 @@ N/A
 
 ## Usage
 
+Link to deployed application: https://nmatos12.github.io/password_generator_challenge/
+
 Images below provide a snapshot of webpage including functionality.
 
 ![alt text](assets/images/password_generator_img1.png)
